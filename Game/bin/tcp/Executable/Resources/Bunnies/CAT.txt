@@ -1,0 +1,10 @@
+max-jump-height: 800.000000
+scale: 2.000000
+walk-speed: 45.000000
+colours[1]: #da6666
+colours[2]: #6b6b6b
+colours[3]: #e2d3d3
+colours[4]: #000000
+colours[5]: #a18181
+colours[6]: #f7cede
+name: CAT
